@@ -36,8 +36,3 @@ It focuses on:
 - Beginner-friendly project
 
 Project URl:https://basic-html-website-self.vercel.app/
-- Perfect for understanding layout fundamentals
-
----
-
-## 📂 Project Str
